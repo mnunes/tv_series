@@ -1,0 +1,2278 @@
+1
+00:00:04,819 --> 00:00:08,315
+Não lavei as mãos
+e não ligo.
+
+2
+00:00:10,192 --> 00:00:12,580
+É legal um lugar que
+não param de te servir
+
+3
+00:00:12,581 --> 00:00:14,601
+quando as coisas
+ficam boas, não é?
+
+4
+00:00:15,502 --> 00:00:18,824
+Outra jarra da sua cerveja
+mais forte, bom senhor.
+
+5
+00:00:18,825 --> 00:00:21,760
+E aquela coisa
+de vidro para beber.
+
+6
+00:00:21,761 --> 00:00:23,433
+E...
+
+7
+00:00:23,434 --> 00:00:26,048
+Um do que esse cara estiver
+bebendo para aquele cara,
+
+8
+00:00:26,049 --> 00:00:28,849
+e um do que ele bebe
+para ele.
+
+9
+00:00:28,850 --> 00:00:31,236
+E outra rodada para todos,
+por minha conta.
+
+10
+00:00:33,405 --> 00:00:35,047
+-Isso mesmo.
+-Valeu, cara.
+
+11
+00:00:35,048 --> 00:00:37,806
+-Qual é a ocasião?
+-Estou comemorando.
+
+12
+00:00:37,807 --> 00:00:42,087
+Meu nome é Jake Peralta e acabo
+de ser demitido da polícia.
+
+13
+00:00:43,106 --> 00:00:45,205
+Legendas em Série
+Brooklyn Nine-Nine
+
+14
+00:00:45,206 --> 00:00:47,105
+Tradução:
+IvanHalen | Mitchelly
+
+15
+00:00:47,106 --> 00:00:48,905
+Tradução:
+macedo540 | ZeusRevoLTs
+
+16
+00:00:48,906 --> 00:00:50,522
+Revisão:
+Tiagones | Tagnamar
+
+17
+00:00:59,100 --> 00:01:01,386
+[ S01E22 - SEASON FINALE ]
+"Charges and Specs"
+
+18
+00:01:02,222 --> 00:01:04,158
+UMA SEMANA ANTES
+
+19
+00:01:05,298 --> 00:01:08,325
+Ouçam. O que vão ver
+é muito perturbador,
+
+20
+00:01:08,326 --> 00:01:10,700
+mas não comentem.
+Esse homem está sofrendo,
+
+21
+00:01:10,701 --> 00:01:12,918
+então, acima de tudo,
+sejam gentis.
+
+22
+00:01:15,976 --> 00:01:17,676
+Bom dia, Boyle.
+
+23
+00:01:18,191 --> 00:01:21,645
+Vamos falar de uma vez.
+A Vivian terminou comigo ontem.
+
+24
+00:01:22,116 --> 00:01:25,135
+Desculpe, Coelhinho.
+
+25
+00:01:25,136 --> 00:01:27,065
+-Charles, espere.
+-Sim?
+
+26
+00:01:27,695 --> 00:01:31,479
+-Seu desidratador de frutas.
+-Meu Deus!
+
+27
+00:01:31,480 --> 00:01:33,299
+É oficial.
+
+28
+00:01:33,605 --> 00:01:36,972
+O casamento foi cancelado.
+E agora eu sou assim.
+
+29
+00:01:36,973 --> 00:01:39,988
+-A vida é uma fossa.
+-Desculpe, não entendi.
+
+30
+00:01:39,989 --> 00:01:43,380
+Já tinha uma roupa do Matrix
+em casa por algum motivo?
+
+31
+00:01:43,381 --> 00:01:48,010
+Não, Gina, gastei o dia dinheiro
+da nossa lua de mel na Flórida.
+
+32
+00:01:48,011 --> 00:01:50,266
+-Sinto muito, cara.
+-Não sinta.
+
+33
+00:01:50,267 --> 00:01:52,663
+Estou me acostumando bem
+à escuridão.
+
+34
+00:01:53,587 --> 00:01:56,255
+Eu te entendo
+muito bem agora.
+
+35
+00:01:56,256 --> 00:01:58,810
+-O que tem aí?
+-Ovos num saco.
+
+36
+00:01:59,297 --> 00:02:01,769
+Nada mais me alegra,
+nem mesmo comida.
+
+37
+00:02:01,770 --> 00:02:04,533
+Agora só como
+para sobreviver.
+
+38
+00:02:06,567 --> 00:02:08,619
+Esperto.
+Guarde para mais tarde.
+
+39
+00:02:09,083 --> 00:02:11,293
+Peralta?
+Na minha sala, agora.
+
+40
+00:02:14,853 --> 00:02:16,346
+Senhor?
+
+41
+00:02:17,420 --> 00:02:19,547
+Comissionário Podolski.
+Já faz um tempo.
+
+42
+00:02:19,548 --> 00:02:23,480
+Talvez porque não tenha prendido
+nenhum filho meu recentemente.
+
+43
+00:02:23,481 --> 00:02:25,204
+Ótimo, inimigos para sempre.
+
+44
+00:02:25,205 --> 00:02:28,143
+-Está investigando Lucas Wint?
+-Estou.
+
+45
+00:02:28,144 --> 00:02:30,562
+Acho que está lavando dinheiro
+para traficantes.
+
+46
+00:02:30,563 --> 00:02:33,440
+Não seja idiota,
+ele é um líder cívico.
+
+47
+00:02:33,441 --> 00:02:35,053
+Ele tem
+uma grande caridade,
+
+48
+00:02:35,054 --> 00:02:38,223
+o centro comunitário dele
+é a vida da vizinhança.
+
+49
+00:02:38,224 --> 00:02:41,908
+E ele afirma oficialmente
+que você o assediou.
+
+50
+00:02:42,224 --> 00:02:44,643
+O quê?
+Isso é loucura.
+
+51
+00:02:44,644 --> 00:02:47,141
+Tentei falar com ele,
+mas ele me evitou,
+
+52
+00:02:47,142 --> 00:02:50,703
+como alguém culpado, então
+fui ao jogo de basquete dele.
+
+53
+00:02:52,167 --> 00:02:54,204
+Oi, Wint.
+Tenho umas perguntas para você.
+
+54
+00:02:54,205 --> 00:02:55,505
+Te disse para se afastar.
+
+55
+00:02:55,506 --> 00:02:57,173
+Isso é completamente
+inapropriado.
+
+56
+00:02:57,174 --> 00:02:59,772
+Não, esse sou eu
+te dando uma lavada.
+
+57
+00:03:00,354 --> 00:03:01,772
+Na cesta!
+
+58
+00:03:01,773 --> 00:03:05,065
+Parecia uma falta clara,
+mas não vem ao caso.
+
+59
+00:03:05,066 --> 00:03:07,851
+Peralta, tem alguma prova
+para apoiar suas suspeitas?
+
+60
+00:03:07,852 --> 00:03:10,213
+Há muito falatório
+entre os traficantes.
+
+61
+00:03:10,214 --> 00:03:12,818
+-"Falatório"?
+-Também odeio essa palavra.
+
+62
+00:03:12,819 --> 00:03:15,936
+-Tagarelice.
+-Só fique longe do Wint.
+
+63
+00:03:15,937 --> 00:03:17,319
+É uma ordem.
+
+64
+00:03:17,320 --> 00:03:20,301
+Capitão, estou te dizendo,
+é uma tagarelice confiável.
+
+65
+00:03:20,302 --> 00:03:22,679
+-Tem que confiar em mim.
+-Confie em mim.
+
+66
+00:03:22,680 --> 00:03:25,512
+-É melhor que você se afaste.
+-Beleza.
+
+67
+00:03:26,149 --> 00:03:28,983
+Mas acho que os dois estão
+errados. Autodispensado.
+
+68
+00:03:30,759 --> 00:03:33,160
+Temos que ajudar o Charles.
+Ele está devastado.
+
+69
+00:03:33,161 --> 00:03:34,519
+Odeio vê-lo assim.
+
+70
+00:03:34,520 --> 00:03:36,762
+Términos são figurinhas
+de dedão negativo,
+
+71
+00:03:36,763 --> 00:03:39,681
+eles fazem ficarmos como
+carinhas com "X's" nos olhos.
+
+72
+00:03:39,682 --> 00:03:41,491
+O que isso significa?
+
+73
+00:03:41,492 --> 00:03:44,110
+A língua inglesa não consegue
+capturar a profundidade
+
+74
+00:03:44,111 --> 00:03:46,244
+e complexidade
+dos meus pensamentos, então,
+
+75
+00:03:46,245 --> 00:03:49,645
+estou incorporando emoticons
+na minha fala para me expressar.
+
+76
+00:03:49,646 --> 00:03:51,421
+-Piscadinha.
+-Caramba.
+
+77
+00:03:51,422 --> 00:03:55,091
+Isso é simples. O Boyle
+precisa de uma substituta.
+
+78
+00:03:55,092 --> 00:03:58,214
+Emoticon de berinjela.
+Rosa, quer ir em frente?
+
+79
+00:03:58,215 --> 00:04:00,045
+Não me faça arrancar
+sua língua.
+
+80
+00:04:00,046 --> 00:04:02,845
+Eu falaria com ele, mas não acho
+que tenho um conselho.
+
+81
+00:04:02,846 --> 00:04:05,051
+Todos os meus términos
+foram mútuos.
+
+82
+00:04:05,052 --> 00:04:07,894
+Essa é a melhor opção
+para nós dois.
+
+83
+00:04:07,895 --> 00:04:09,693
+-Concordo.
+-Cuide-se.
+
+84
+00:04:11,574 --> 00:04:13,622
+Foi o fim de um relacionamento
+de 8 anos.
+
+85
+00:04:14,019 --> 00:04:16,360
+Não tive tantos
+términos românticos,
+
+86
+00:04:16,361 --> 00:04:18,586
+mas nenhum filho
+meu fala mais comigo.
+
+87
+00:04:18,587 --> 00:04:22,824
+Nenhum de vocês é útil,
+o Sargento e eu vamos ajudá-lo.
+
+88
+00:04:24,576 --> 00:04:27,192
+Ele não está nem mais
+mastigando os ovos.
+
+89
+00:04:27,949 --> 00:04:30,126
+Olha o SMS
+que o Boyle me mandou:
+
+90
+00:04:30,549 --> 00:04:34,876
+"Descobri como é um guardanapo
+usado numa churrascaria".
+
+91
+00:04:34,877 --> 00:04:38,375
+Odeio términos. Espero nunca
+mais ter de passar por um.
+
+92
+00:04:38,376 --> 00:04:41,141
+Sério? Acha que vai passar
+o resto da vida com o Teddy?
+
+93
+00:04:41,142 --> 00:04:43,818
+O quê? Não.
+Talvez.
+
+94
+00:04:43,819 --> 00:04:47,048
+Não sei. Só acho que levar
+um fora é um pesadelo.
+
+95
+00:04:47,049 --> 00:04:50,182
+Não vou discutir.
+Lembro do meu pior término.
+
+96
+00:04:50,183 --> 00:04:52,608
+Na oitava série,
+Jenny Gildenhorn.
+
+97
+00:04:53,045 --> 00:04:56,579
+-Oi, Jenny.
+-Jake, não quero mais sair.
+
+98
+00:04:56,580 --> 00:04:59,341
+-Gosto do Eddie Fung agora.
+-Mas é o meu Bar Mitzvah.
+
+99
+00:04:59,342 --> 00:05:00,848
+Nós íamos nos encoxar.
+
+100
+00:05:02,000 --> 00:05:04,100
+Naquele dia,
+eu me tornei um homem.
+
+101
+00:05:04,101 --> 00:05:05,802
+Me pergunto
+onde o Eddie Fung está.
+
+102
+00:05:05,803 --> 00:05:07,500
+Rua Clinton, 867,
+apartamento 2A.
+
+103
+00:05:07,501 --> 00:05:09,602
+Sei exatamente
+onde aquele desgraçado está.
+
+104
+00:05:10,300 --> 00:05:13,400
+-Abaixe-se, é o Wint!
+-Wint? O Holt mandou desistir.
+
+105
+00:05:13,401 --> 00:05:16,352
+-Achei que fosse um assalto.
+-Eu sei, eu menti, me desculpa?
+
+106
+00:05:16,353 --> 00:05:18,405
+Desculpas aceitas.
+O Podolski está errado.
+
+107
+00:05:18,406 --> 00:05:20,758
+Wint é culpado, ontem eu o vi
+entrar em um carro
+
+108
+00:05:20,759 --> 00:05:23,110
+com um traficante conhecido.
+Não tirei uma foto,
+
+109
+00:05:23,111 --> 00:05:24,413
+mas hoje
+eu vim preparado.
+
+110
+00:05:24,414 --> 00:05:27,065
+-Você contou ao Holt o que viu?
+-Não, não confio nele.
+
+111
+00:05:27,066 --> 00:05:28,520
+Como pode
+não confiar no Holt?
+
+112
+00:05:28,521 --> 00:05:31,572
+-Ele vai ler meu testamento.
+-Wint tem contatos na prefeitura.
+
+113
+00:05:31,573 --> 00:05:33,925
+Acho que o Holt não arriscaria
+perder o comando.
+
+114
+00:05:33,926 --> 00:05:35,300
+Enfim...
+
+115
+00:05:35,301 --> 00:05:37,000
+Merda, para onde ele foi?
+
+116
+00:05:38,500 --> 00:05:40,699
+Olá, Detetive Peralta.
+
+117
+00:05:40,700 --> 00:05:42,300
+Amy.
+
+118
+00:05:42,301 --> 00:05:44,199
+Diga quem está aqui.
+
+119
+00:05:44,200 --> 00:05:45,700
+Eu estou cego.
+
+120
+00:05:46,200 --> 00:05:49,400
+Você desobedeceu ordens diretas
+de largar esse caso.
+
+121
+00:05:49,401 --> 00:05:52,255
+Tive uma pista que o Wint
+se encontrava com um traficante.
+
+122
+00:05:52,256 --> 00:05:53,758
+Por que você
+não me disse isso?
+
+123
+00:05:53,759 --> 00:05:55,360
+Porque você mandou
+largar o caso.
+
+124
+00:05:55,361 --> 00:05:57,512
+Olha, vamos concordar
+em dizer "sinto muito"
+
+125
+00:05:57,513 --> 00:05:59,900
+quando eu contar até três.
+Um, dois, três.
+
+126
+00:06:00,800 --> 00:06:03,000
+Está vendo?
+Agora estou desapontado conosco.
+
+127
+00:06:03,001 --> 00:06:05,052
+Isso é inaceitável,
+você passou do limite.
+
+128
+00:06:05,053 --> 00:06:07,354
+Senhor, sou Amy Santiago,
+e tenho algo a dizer.
+
+129
+00:06:07,355 --> 00:06:08,700
+Acho que está errado.
+
+130
+00:06:08,701 --> 00:06:10,752
+Acho que o Detetive Peralta
+tem uma pista,
+
+131
+00:06:10,753 --> 00:06:12,654
+e o senhor deveria
+deixá-lo investigar.
+
+132
+00:06:12,655 --> 00:06:15,100
+-Sou Amy Santiago e terminei.
+-Bom.
+
+133
+00:06:15,101 --> 00:06:17,000
+Porque isso
+não é da sua conta.
+
+134
+00:06:17,001 --> 00:06:20,200
+O Comissário Podolski abriu
+um inquérito contra você.
+
+135
+00:06:20,201 --> 00:06:21,955
+Talvez fique suspenso
+por seis meses
+
+136
+00:06:21,956 --> 00:06:23,610
+e está de licença
+até a audiência.
+
+137
+00:06:23,611 --> 00:06:26,300
+-Agora, saia da minha sala.
+-Tudo bem.
+
+138
+00:06:27,700 --> 00:06:29,600
+Aqui está a minha arma
+e o distintivo.
+
+139
+00:06:29,601 --> 00:06:31,900
+Não preciso.
+Ainda não está suspenso.
+
+140
+00:06:31,901 --> 00:06:33,300
+Só está de licença.
+
+141
+00:06:33,301 --> 00:06:35,102
+Você nunca me deixa fazer
+nada legal.
+
+142
+00:06:36,550 --> 00:06:38,399
+DIA DA AUDIÊNCIA
+
+143
+00:06:38,400 --> 00:06:39,802
+Bom dia, Capitão.
+
+144
+00:06:39,803 --> 00:06:41,555
+Trouxe o seu café da manhã
+favorito.
+
+145
+00:06:41,556 --> 00:06:43,100
+Uma rosquinha
+e água.
+
+146
+00:06:43,101 --> 00:06:44,600
+Não tente me amolecer.
+
+147
+00:06:44,601 --> 00:06:47,700
+Por que quis me encontrar
+nesse beco às 9h da manhã?
+
+148
+00:06:47,701 --> 00:06:49,602
+Minha melhor chance
+de não ser suspenso
+
+149
+00:06:49,603 --> 00:06:51,155
+é provando que o Wint
+é culpado.
+
+150
+00:06:51,156 --> 00:06:53,060
+Tenho um informante
+para você conhecer.
+
+151
+00:06:53,061 --> 00:06:55,712
+Continuou a trabalhar no caso
+contra as minhas ordens?
+
+152
+00:06:55,713 --> 00:06:58,200
+-Você é surpreendente.
+-Obrigado, senhor.
+
+153
+00:06:58,201 --> 00:07:00,300
+Você também
+é surpreendente.
+
+154
+00:07:00,301 --> 00:07:03,500
+Mas eu não o encontrei.
+Foi a Santiago.
+
+155
+00:07:04,100 --> 00:07:08,100
+-O que está acontecendo com você?
+-Eu não sei, senhor.
+
+156
+00:07:08,101 --> 00:07:09,855
+Nós dois estamos
+perdidos aqui.
+
+157
+00:07:09,856 --> 00:07:12,600
+Meu GPS interno
+está recalculando há uma semana.
+
+158
+00:07:12,601 --> 00:07:13,902
+Este é o Isaac.
+
+159
+00:07:13,903 --> 00:07:15,905
+Ele era o traficante
+de Bay Ridge.
+
+160
+00:07:15,906 --> 00:07:18,710
+Cara, drogas não precisam disso.
+Elas se vendem sozinhas.
+
+161
+00:07:18,711 --> 00:07:21,400
+-As pessoas amam drogas.
+-Fale sobre as doações.
+
+162
+00:07:21,401 --> 00:07:24,000
+Toda sexta-feira coloco dinheiro
+em uma sacola
+
+163
+00:07:24,001 --> 00:07:25,802
+e eu levo
+ao Centro Comunitário Wint.
+
+164
+00:07:25,803 --> 00:07:29,900
+Quarto 265, e eles marcam
+como doação na contabilidade.
+
+165
+00:07:29,901 --> 00:07:32,300
+Ou seja,
+lavagem de dinheiro.
+
+166
+00:07:32,700 --> 00:07:35,402
+-Por que acreditaríamos?
+-Não me importo se acredita.
+
+167
+00:07:35,403 --> 00:07:36,705
+Eu odeio aqueles caras.
+
+168
+00:07:36,706 --> 00:07:39,058
+Por causa deles
+tive que parar de vender drogas.
+
+169
+00:07:39,059 --> 00:07:41,312
+E amo vender drogas.
+Era o emprego dos sonhos.
+
+170
+00:07:41,313 --> 00:07:42,700
+Senhor,
+preenchi um mandado
+
+171
+00:07:42,701 --> 00:07:44,800
+para procurar
+o livro contábil.
+
+172
+00:07:44,801 --> 00:07:47,302
+Preciso da sua assinatura
+antes de levar a um juiz.
+
+173
+00:07:47,303 --> 00:07:49,155
+Sei que estou pedindo
+que se arrisque,
+
+174
+00:07:49,156 --> 00:07:50,610
+mas, por favor,
+confie em mim.
+
+175
+00:07:51,500 --> 00:07:52,900
+Tudo bem.
+
+176
+00:07:52,901 --> 00:07:56,000
+Mas estarei com você.
+A todo momento.
+
+177
+00:07:56,001 --> 00:07:58,802
+Você deveria colocar um chip
+no pescoço dele como um cão.
+
+178
+00:07:58,803 --> 00:08:01,300
+Certo, Isaac, obrigado.
+Pode ir.
+
+179
+00:08:01,700 --> 00:08:04,700
+Certo, pessoal.
+A audiência do Peralta é às 16h.
+
+180
+00:08:04,701 --> 00:08:07,200
+-Alguém viu o Boyle?
+-Aqui.
+
+181
+00:08:07,201 --> 00:08:09,300
+Ele parece estar ainda pior
+do que antes.
+
+182
+00:08:09,301 --> 00:08:12,100
+Perdi a Vivian,
+e agora posso perder o Jake.
+
+183
+00:08:12,101 --> 00:08:14,202
+Não sei mais o que fazer.
+Tentei dar apoio.
+
+184
+00:08:14,203 --> 00:08:16,305
+Escutei ele falar
+sobre os lábios da Vivian
+
+185
+00:08:16,306 --> 00:08:18,300
+por mais de duas horas.
+
+186
+00:08:18,301 --> 00:08:20,002
+Ele os descrevia
+como "abundantes".
+
+187
+00:08:20,003 --> 00:08:21,500
+Tão abundantes.
+
+188
+00:08:22,300 --> 00:08:23,999
+Rosa.
+
+189
+00:08:24,000 --> 00:08:25,900
+Você já levou
+um pé na bunda?
+
+190
+00:08:27,700 --> 00:08:29,002
+Não.
+
+191
+00:08:29,003 --> 00:08:30,600
+Eu quem dou
+um pé na bunda.
+
+192
+00:08:30,601 --> 00:08:33,399
+E agora você não está bem,
+mas acho que posso consertar.
+
+193
+00:08:33,400 --> 00:08:36,300
+Tem essa coisa que eu faço
+sempre que eu...
+
+194
+00:08:36,301 --> 00:08:37,801
+Sinto.
+
+195
+00:08:37,802 --> 00:08:42,000
+-O quê?
+-Queimar tudo.
+
+196
+00:08:45,200 --> 00:08:47,500
+Certo.
+Isso é bom.
+
+197
+00:08:48,300 --> 00:08:50,600
+Não, é terrível!
+Vivian, você não vai queimar!
+
+198
+00:08:54,900 --> 00:08:56,202
+Isso é tão quente!
+
+199
+00:08:56,203 --> 00:08:57,900
+-O que é isso?
+-É café!
+
+200
+00:08:59,100 --> 00:09:00,500
+Café quente?
+
+201
+00:09:01,300 --> 00:09:04,003
+Olhem para nós.
+Três policiais desobedientes
+
+202
+00:09:04,004 --> 00:09:06,700
+trabalhando em um caso
+que o Comissário mandou largar.
+
+203
+00:09:06,701 --> 00:09:08,252
+Abotoe a jaqueta,
+sente direito.
+
+204
+00:09:08,253 --> 00:09:10,805
+A juíza Mindel tem fama
+de ser rígida e respeitável.
+
+205
+00:09:10,806 --> 00:09:13,100
+Certo, não se preocupe.
+Vou agir como você.
+
+206
+00:09:13,101 --> 00:09:15,800
+Diga algo para eu poder
+pegar o tom da sua voz.
+
+207
+00:09:15,801 --> 00:09:17,200
+-Não vou.
+-Perfeito.
+
+208
+00:09:17,201 --> 00:09:19,200
+Não vou.
+Não...
+
+209
+00:09:19,201 --> 00:09:22,400
+Vou.
+Não vou.
+
+210
+00:09:24,700 --> 00:09:27,000
+-Sente-se, detetive.
+-Não vou.
+
+211
+00:09:27,001 --> 00:09:29,200
+-Como é?
+-Desculpe.
+
+212
+00:09:29,201 --> 00:09:32,500
+Quis dizer que por respeito,
+ficarei em pé.
+
+213
+00:09:32,501 --> 00:09:34,900
+Sentar, não vou.
+
+214
+00:09:35,600 --> 00:09:39,100
+Parece que isso foi preenchido
+por uma criança.
+
+215
+00:09:39,101 --> 00:09:42,100
+Vamos discutir
+cada pedaço disso.
+
+216
+00:09:42,101 --> 00:09:44,700
+A justiça não pode
+ser apressada.
+
+217
+00:09:44,701 --> 00:09:48,100
+Mas poderia ser gentilmente
+em super velocidade?
+
+218
+00:09:48,101 --> 00:09:49,700
+Presumo que você
+seja a criança.
+
+219
+00:09:50,500 --> 00:09:52,100
+Com licença.
+
+220
+00:09:53,300 --> 00:09:55,600
+-Isso está indo terrível.
+-Novo plano.
+
+221
+00:09:56,700 --> 00:09:58,100
+Vou flertar com ela.
+
+222
+00:09:59,900 --> 00:10:01,400
+Não.
+
+223
+00:10:01,401 --> 00:10:03,000
+Me desculpe,
+tive que atender.
+
+224
+00:10:03,001 --> 00:10:05,200
+Você precisa fazer
+o que precisa fazer.
+
+225
+00:10:05,647 --> 00:10:09,454
+Capitão Raymond Holt.
+E aí?
+
+226
+00:10:13,308 --> 00:10:14,890
+4 HORAS
+PARA A AUDIÊNCIA
+
+227
+00:10:14,891 --> 00:10:17,814
+-Queria me ver, Sargento?
+-Sim, entre, Boyle.
+
+228
+00:10:18,161 --> 00:10:20,470
+-Sinto muito pela sua mão.
+-Obrigado.
+
+229
+00:10:20,471 --> 00:10:23,014
+Tornou bastante difícil
+manejar meu saco de ovos.
+
+230
+00:10:23,015 --> 00:10:25,374
+É o seguinte.
+
+231
+00:10:25,375 --> 00:10:27,465
+Passei um ano
+do ensino médio em Tóquio.
+
+232
+00:10:27,466 --> 00:10:30,852
+E a minha namorada, Chiaki,
+partiu meu coração.
+
+233
+00:10:30,853 --> 00:10:35,043
+Desculpe, pensei que soubesse
+que só estávamos ficando.
+
+234
+00:10:35,044 --> 00:10:38,206
+Terry veio para cá
+estudar japonês,
+
+235
+00:10:38,207 --> 00:10:43,192
+mas só aprendeu
+a ter o coração partido.
+
+236
+00:10:43,193 --> 00:10:45,948
+Fiquei encarando as paredes
+por semanas,
+
+237
+00:10:45,949 --> 00:10:49,276
+até meu colega me ensinar
+a desabafar meus sentimentos.
+
+238
+00:10:52,429 --> 00:10:55,385
+Pegue um prato,
+e destrua.
+
+239
+00:10:57,901 --> 00:10:59,470
+-É bom.
+-Sim!
+
+240
+00:10:59,471 --> 00:11:01,446
+-Certo. Sua vez, Boyle.
+-Tudo bem.
+
+241
+00:11:01,447 --> 00:11:02,868
+-Desabafe isso.
+-Certo.
+
+242
+00:11:02,869 --> 00:11:05,219
+-Lá vamos nós, Sargento.
+-É.
+
+243
+00:11:06,176 --> 00:11:08,905
+Meus testículos!
+
+244
+00:11:09,770 --> 00:11:12,071
+Temos um mandado.
+Agora precisamos de um plano.
+
+245
+00:11:12,072 --> 00:11:13,924
+Não podemos ir lá
+de uniforme.
+
+246
+00:11:13,925 --> 00:11:16,404
+Vão destruir as evidências
+antes de entrarmos.
+
+247
+00:11:16,405 --> 00:11:18,006
+Bem pensado,
+Capitão Holt.
+
+248
+00:11:18,007 --> 00:11:21,882
+Ou devo dizer,
+Capitão Raymond Sensual?
+
+249
+00:11:21,883 --> 00:11:23,680
+Quem diria que tem
+a manha?
+
+250
+00:11:23,681 --> 00:11:25,506
+Descobri
+que muitas mulheres querem
+
+251
+00:11:25,507 --> 00:11:27,078
+aquilo
+que não podem ter.
+
+252
+00:11:27,079 --> 00:11:28,810
+-Eu entendo.
+-Credo.
+
+253
+00:11:28,811 --> 00:11:31,093
+Que diabos
+está acontecendo?
+
+254
+00:11:31,094 --> 00:11:33,363
+De acordo
+com o calendário de lá,
+
+255
+00:11:33,364 --> 00:11:35,831
+concurso amador
+de dança de salão.
+
+256
+00:11:35,832 --> 00:11:37,707
+Certo.
+
+257
+00:11:38,008 --> 00:11:40,321
+Já sei como vamos
+nos misturar.
+
+258
+00:11:40,322 --> 00:11:42,562
+-Não diga brechó.
+-Brechó!
+
+259
+00:12:04,601 --> 00:12:06,561
+Jake, o tempo é curto.
+
+260
+00:12:06,562 --> 00:12:07,895
+Certo.
+
+261
+00:12:08,951 --> 00:12:10,337
+UMA HORA PARA A AUDIÊNCIA
+
+262
+00:12:10,338 --> 00:12:12,954
+Parece que o livro contábil
+está no quarto 265.
+
+263
+00:12:12,955 --> 00:12:15,373
+Deve ser lá em cima.
+Vamos subir.
+
+264
+00:12:15,374 --> 00:12:17,320
+Aonde estão indo?
+
+265
+00:12:17,321 --> 00:12:18,741
+Para
+o concurso de dança.
+
+266
+00:12:18,742 --> 00:12:21,633
+Sou Dave Blathis, dançarino
+de foxtrote conhecido no país,
+
+267
+00:12:21,634 --> 00:12:23,316
+e estes são meus afilhados,
+
+268
+00:12:23,317 --> 00:12:26,018
+Rhonda Shawarma
+e Hank Frankel.
+
+269
+00:12:26,019 --> 00:12:27,729
+Não me importo
+com quem são vocês.
+
+270
+00:12:27,730 --> 00:12:29,506
+Lá em cima
+está fechado ao público.
+
+271
+00:12:29,507 --> 00:12:32,308
+Tudo bem. Mas não tivemos
+que suportar essa porcaria
+
+272
+00:12:32,309 --> 00:12:34,057
+quando dançamos
+em Barcelona.
+
+273
+00:12:35,058 --> 00:12:36,976
+A audiência
+vai começar logo.
+
+274
+00:12:36,977 --> 00:12:38,850
+Pode ter uma escada
+na pista de dança.
+
+275
+00:12:38,851 --> 00:12:40,354
+Vou nos inscrever
+no concurso.
+
+276
+00:12:40,355 --> 00:12:41,862
+Boa ideia.
+E, Amy...
+
+277
+00:12:41,863 --> 00:12:43,942
+Seu vestido te faz parecer
+uma sereia.
+
+278
+00:12:45,669 --> 00:12:47,447
+Certo, vejo você
+daqui a pouco.
+
+279
+00:12:47,848 --> 00:12:49,309
+SEDE DA POLÍCIA
+15H54
+
+280
+00:12:49,310 --> 00:12:51,060
+Estamos
+preocupados com o Boyle,
+
+281
+00:12:51,061 --> 00:12:53,805
+mas, de novo,
+há uma solução.
+
+282
+00:12:53,806 --> 00:12:57,055
+Esqueça um amor antigo
+com sexo sem sentido.
+
+283
+00:12:57,056 --> 00:12:58,944
+Rima porque é verdade.
+
+284
+00:12:58,945 --> 00:13:00,273
+Certo, pessoal.
+
+285
+00:13:00,274 --> 00:13:02,217
+Peralta precisa
+que ganhemos tempo.
+
+286
+00:13:02,218 --> 00:13:04,410
+Então respondam
+de forma longa.
+
+287
+00:13:04,411 --> 00:13:06,979
+Acrescentem coisas.
+Incrementem ao máximo.
+
+288
+00:13:06,980 --> 00:13:08,441
+Boyle, você primeiro.
+
+289
+00:13:08,442 --> 00:13:10,305
+Não sei
+se estou preparado.
+
+290
+00:13:10,306 --> 00:13:13,487
+Estou tão emotivo,
+que mal consigo pensar.
+
+291
+00:13:13,488 --> 00:13:15,382
+Ótimo.
+Use isso.
+
+292
+00:13:15,383 --> 00:13:16,728
+Abrace o vazio.
+
+293
+00:13:16,729 --> 00:13:18,501
+Você diria
+que o Detetive Peralta
+
+294
+00:13:18,502 --> 00:13:20,757
+estava muito interessado
+no caso Wint?
+
+295
+00:13:20,758 --> 00:13:22,378
+Só ouvi
+o Detetive Peralta
+
+296
+00:13:22,379 --> 00:13:24,194
+falar sobre Lucas Wint
+uma vez.
+
+297
+00:13:24,195 --> 00:13:25,520
+Estávamos no meu carro.
+
+298
+00:13:25,521 --> 00:13:29,038
+Levei Vivian
+ao nosso primeiro encontro nele.
+
+299
+00:13:29,039 --> 00:13:31,166
+Vivian é minha noiva.
+
+300
+00:13:31,514 --> 00:13:33,883
+Minha ex-noiva.
+
+301
+00:13:34,651 --> 00:13:36,178
+Nunca será minha esposa.
+
+302
+00:13:36,179 --> 00:13:38,101
+Detetive Boyle,
+se puder,
+
+303
+00:13:38,102 --> 00:13:40,621
+limite seus comentários
+ao assunto em questão.
+
+304
+00:13:40,622 --> 00:13:43,262
+Limitarei. Só gostaria
+de comentar
+
+305
+00:13:43,263 --> 00:13:44,655
+que "assunto em questão"
+
+306
+00:13:44,656 --> 00:13:47,156
+era uma das expressões
+preferidas da Vivian.
+
+307
+00:13:48,398 --> 00:13:50,118
+Devíamos tentar
+nos misturar.
+
+308
+00:13:50,119 --> 00:13:51,661
+Coloque sua perna
+na cabeça.
+
+309
+00:13:51,662 --> 00:13:54,202
+O quê?
+Coloque você, a sua.
+
+310
+00:13:54,203 --> 00:13:55,839
+Eu faria
+se conseguisse.
+
+311
+00:13:56,306 --> 00:13:58,788
+Parece que o Capitão
+achou uma parceira.
+
+312
+00:13:59,276 --> 00:14:00,873
+Meu Deus.
+
+313
+00:14:00,874 --> 00:14:04,068
+Certo, começaremos o período
+de dança livre
+
+314
+00:14:04,069 --> 00:14:07,563
+ao som picante
+de Rumba.
+
+315
+00:14:07,564 --> 00:14:10,572
+Certo.
+A pista nos espera, querida.
+
+316
+00:14:10,973 --> 00:14:12,313
+Essa não.
+
+317
+00:14:12,669 --> 00:14:14,926
+Estamos disfarçados,
+mas estou ficando nervosa
+
+318
+00:14:14,927 --> 00:14:17,582
+-com esse concurso.
+-Precisa ir a um terapeuta.
+
+319
+00:14:17,583 --> 00:14:19,205
+-É.
+-Vamos dançar assim.
+
+320
+00:14:19,206 --> 00:14:20,647
+Tudo bem.
+
+321
+00:14:20,948 --> 00:14:22,649
+Como você conseguiu pisar
+
+322
+00:14:22,650 --> 00:14:24,314
+nos meus dois pés
+simultaneamente?
+
+323
+00:14:24,315 --> 00:14:26,286
+Sou horrível nisso.
+Quando paramos?
+
+324
+00:14:26,287 --> 00:14:28,591
+-Sou horrível nisso.
+-Eu sei, eu sei.
+
+325
+00:14:28,592 --> 00:14:30,875
+-Título do meu vídeo sexual.
+-Muito bem.
+
+326
+00:14:30,876 --> 00:14:32,591
+Título do meu vídeo sexual.
+
+327
+00:14:32,892 --> 00:14:34,770
+Meu Deus, o Capitão.
+
+328
+00:14:35,071 --> 00:14:36,864
+Ele poderia mesmo
+ganhar isso.
+
+329
+00:14:36,865 --> 00:14:39,096
+Como ficou tão incrível
+na dança?
+
+330
+00:14:39,097 --> 00:14:40,491
+Jake, foco.
+
+331
+00:14:40,492 --> 00:14:41,964
+Achei uma escada
+por aqui.
+
+332
+00:14:41,965 --> 00:14:43,331
+E gire.
+
+333
+00:14:44,053 --> 00:14:46,124
+Quem é ele?
+
+334
+00:14:46,125 --> 00:14:48,288
+Pelo que lembro,
+o Detetive Peralta
+
+335
+00:14:48,289 --> 00:14:50,241
+disse a mim que...
+
+336
+00:14:50,655 --> 00:14:51,955
+ENROLE
+
+337
+00:14:52,729 --> 00:14:54,060
+Que...
+
+338
+00:14:55,932 --> 00:14:57,321
+Ele...
+
+339
+00:14:57,322 --> 00:15:00,319
+Não, nunca ouvi Jake
+falar sobre Wint.
+
+340
+00:15:00,320 --> 00:15:02,193
+E só o fato
+de estarem o julgando
+
+341
+00:15:02,194 --> 00:15:04,212
+é gato fazendo cara de triste.
+
+342
+00:15:04,213 --> 00:15:05,589
+De...
+
+343
+00:15:05,590 --> 00:15:07,131
+Conheço Jake há tempos.
+
+344
+00:15:07,132 --> 00:15:10,000
+Nossa amizade é garotinho
+pegando na mão de garotinha.
+
+345
+00:15:12,304 --> 00:15:15,940
+Aquele guarda
+na porta não sairá dali.
+
+346
+00:15:15,941 --> 00:15:18,075
+Ele olhou para mim.
+
+347
+00:15:18,076 --> 00:15:20,911
+Fique de boa. Dance.
+Dance, dance, dance.
+
+348
+00:15:20,912 --> 00:15:24,014
+Não precisa dizer "dance"
+sempre que faz um passo.
+
+349
+00:15:24,015 --> 00:15:25,315
+Bom conselho.
+
+350
+00:15:25,316 --> 00:15:27,451
+Quer que eu te mostre
+como fazer isso,
+
+351
+00:15:27,452 --> 00:15:29,954
+assim você não se machuca
+e nem machuca os outros?
+
+352
+00:15:29,955 --> 00:15:32,023
+-Sim.
+-Certo. Pronta?
+
+353
+00:15:37,763 --> 00:15:40,564
+-Até que é divertido.
+-Sim.
+
+354
+00:15:40,565 --> 00:15:43,334
+Talvez Teddy e eu devêssemos
+fazer umas aulas.
+
+355
+00:15:43,335 --> 00:15:45,355
+É. Talvez.
+
+356
+00:15:46,638 --> 00:15:48,655
+Gente, estamos sem tempo.
+Qual é o plano?
+
+357
+00:15:48,656 --> 00:15:51,308
+O guarda não sairá dali.
+Precisamos de uma distração.
+
+358
+00:15:51,309 --> 00:15:54,378
+Deixa comigo.
+Dance, dance, dance, dance.
+
+359
+00:15:54,379 --> 00:15:56,113
+Meu Deus!
+
+360
+00:15:56,114 --> 00:15:58,182
+Meu tornozelo!
+Senhor, meu tornozelo!
+
+361
+00:15:58,183 --> 00:16:00,017
+Ouvi um estalo!
+Ouvi um estalo!
+
+362
+00:16:00,018 --> 00:16:01,552
+É ruim?
+Sabe se é ruim?
+
+363
+00:16:01,553 --> 00:16:04,355
+Meu Deus!
+Eu vivo para dançar.
+
+364
+00:16:08,827 --> 00:16:11,796
+<i>Voilà.</i>
+
+365
+00:16:11,797 --> 00:16:14,465
+Que bom que ninguém
+me ouviu dizer isso.
+
+366
+00:16:14,466 --> 00:16:16,467
+Te peguei.
+
+367
+00:16:16,468 --> 00:16:19,704
+Isso é incrível.
+O livro contábil tem tudo.
+
+368
+00:16:19,705 --> 00:16:21,439
+Datas, nomes,
+valor de dinheiro.
+
+369
+00:16:21,440 --> 00:16:23,641
+Não vejo a hora
+de mostrar ao Podolski.
+
+370
+00:16:23,642 --> 00:16:26,976
+Acho que farei a cara "te falei"
+da Miley Cyrus.
+
+371
+00:16:27,279 --> 00:16:30,281
+-É difícil fazer andando.
+-Peralta, espere.
+
+372
+00:16:30,282 --> 00:16:32,683
+Santiago,
+nos dê um minuto.
+
+373
+00:16:32,684 --> 00:16:34,752
+-Senhor?
+-Preciso que faça algo.
+
+374
+00:16:34,753 --> 00:16:36,921
+Vai parecer loucura,
+mas é importante,
+
+375
+00:16:36,922 --> 00:16:39,124
+e preciso
+que você confie em mim.
+
+376
+00:16:40,125 --> 00:16:42,059
+Detetive Peralta...
+
+377
+00:16:42,060 --> 00:16:45,274
+Tem alguma prova
+para apresentar a seu favor?
+
+378
+00:16:45,831 --> 00:16:48,633
+Não.
+Não tenho nada.
+
+379
+00:16:52,705 --> 00:16:56,244
+Jake. O que houve?
+Holt te pediu para ser suspenso?
+
+380
+00:16:56,245 --> 00:16:58,109
+Não, ele me disse
+para ser demitido.
+
+381
+00:16:58,110 --> 00:17:00,445
+-Por quê?
+-Sei lá. Estou surtando.
+
+382
+00:17:00,446 --> 00:17:03,181
+Ele me disse para fazer,
+e logo depois, eu gritava.
+
+383
+00:17:03,182 --> 00:17:06,284
+E a sua mãe!
+As mães de todos vocês.
+
+384
+00:17:06,285 --> 00:17:07,819
+E as avós de vocês.
+
+385
+00:17:07,820 --> 00:17:10,421
+E os cachorrinhos
+das avós de vocês.
+
+386
+00:17:10,422 --> 00:17:11,789
+-Você acabou?
+-Não!
+
+387
+00:17:11,790 --> 00:17:14,325
+-Você acabou!
+-Você não pode comigo!
+
+388
+00:17:14,326 --> 00:17:15,727
+-Meu Deus.
+-Peralta!
+
+389
+00:17:15,728 --> 00:17:17,495
+O que está havendo?
+
+390
+00:17:17,496 --> 00:17:20,444
+-Este é o Agente Clarke do FBI.
+-FBI?
+
+391
+00:17:20,445 --> 00:17:22,346
+Não podíamos deixar expor
+o Lucas Wint.
+
+392
+00:17:22,347 --> 00:17:25,370
+Comprometeria
+uma investigação federal.
+
+393
+00:17:25,371 --> 00:17:28,306
+Achamos que Wint tem ligação
+com a família Ianucci.
+
+394
+00:17:28,307 --> 00:17:29,974
+É a melhor família criminosa.
+
+395
+00:17:29,975 --> 00:17:31,643
+Precisávamos
+que fosse demitido,
+
+396
+00:17:31,644 --> 00:17:34,312
+pois os Ianuccis têm espiões
+dentro da polícia,
+
+397
+00:17:34,313 --> 00:17:35,780
+e precisam confiar em você.
+
+398
+00:17:35,781 --> 00:17:38,783
+Detetive, queremos
+que se infiltre e nos ajude.
+
+399
+00:17:38,784 --> 00:17:40,084
+A resposta é "sim".
+
+400
+00:17:40,085 --> 00:17:42,144
+Os detalhes:
+meu nome é Duncan Buck.
+
+401
+00:17:42,145 --> 00:17:44,044
+Fui criado numa plataforma
+de petróleo
+
+402
+00:17:44,045 --> 00:17:47,046
+-por 90 homens e 1 prostituta.
+-Queremos que seja você mesmo.
+
+403
+00:17:47,047 --> 00:17:49,294
+-É melhor.
+-Isso pode ser perigoso.
+
+404
+00:17:49,295 --> 00:17:51,644
+-Então, pense um...
+-Não precisa. Estou dentro.
+
+405
+00:17:51,645 --> 00:17:53,846
+Olhos fechados,
+cabeça primeiro, sem perder.
+
+406
+00:17:53,847 --> 00:17:55,333
+O ditado não é esse.
+
+407
+00:17:55,334 --> 00:17:57,244
+Pode me deixar ter isso?
+
+408
+00:17:57,245 --> 00:17:58,595
+99ª DELEGACIA
+20H57
+
+409
+00:17:58,596 --> 00:18:01,139
+O que eu lhes direi,
+não pode sair daqui.
+
+410
+00:18:01,140 --> 00:18:04,242
+O Detetive Peralta estará
+em uma operação com o FBI.
+
+411
+00:18:04,243 --> 00:18:05,877
+O disfarce é
+a demissão dele.
+
+412
+00:18:05,878 --> 00:18:07,712
+Meu Deus.
+Meu coração explodiu.
+
+413
+00:18:07,713 --> 00:18:10,144
+Dizem que a operação
+durará seis meses,
+
+414
+00:18:10,145 --> 00:18:13,251
+nesse meu tempo fora, Boyle,
+quero que fique com a minha mesa.
+
+415
+00:18:13,252 --> 00:18:14,752
+Sentarei nela sempre.
+
+416
+00:18:14,753 --> 00:18:17,555
+-Rosa, fique com meu armário.
+-Beleza.
+
+417
+00:18:17,556 --> 00:18:19,891
+Amy, fique com meus
+casos abertos.
+
+418
+00:18:19,892 --> 00:18:21,192
+Certo, já chega.
+
+419
+00:18:21,193 --> 00:18:23,661
+Peralta não tem a autoridade
+de fazer nada disso.
+
+420
+00:18:23,662 --> 00:18:25,332
+Vocês sentarão
+em suas mesas,
+
+421
+00:18:25,333 --> 00:18:27,332
+e trabalharão nos casos
+que eu atribuir.
+
+422
+00:18:27,333 --> 00:18:32,036
+-Mas... você fará falta.
+-Obrigado, Capitão.
+
+423
+00:18:32,037 --> 00:18:36,074
+Obrigado
+por confiar em mim.
+
+424
+00:18:36,075 --> 00:18:39,611
+Agora nos xingue
+e saia daqui irritado.
+
+425
+00:18:39,612 --> 00:18:41,646
+Este é o melhor dia de todos.
+
+426
+00:18:43,315 --> 00:18:44,949
+Eu sentirei
+a falta de vocês.
+
+427
+00:18:44,950 --> 00:18:48,486
+E a sua mãe!
+
+428
+00:18:48,487 --> 00:18:50,722
+<i>Vocês são todos porcos!</i>
+
+429
+00:18:50,723 --> 00:18:53,492
+Sinto cheiro de bacon!
+
+430
+00:18:53,993 --> 00:18:56,160
+E sabe do que mais,
+"Capitão"?
+
+431
+00:18:56,161 --> 00:19:00,965
+Pegue essa gravata e enfie
+no seu fundilho!
+
+432
+00:19:00,966 --> 00:19:04,033
+Aqui fede a bacon!
+
+433
+00:19:04,034 --> 00:19:05,336
+E adivinhem?
+
+434
+00:19:05,337 --> 00:19:10,108
+Vou de comida judaica,
+pois Jakey não gosta de porco!
+
+435
+00:19:11,123 --> 00:19:13,444
+Certo, pessoal.
+Quero fazer um brinde.
+
+436
+00:19:13,445 --> 00:19:15,513
+A vocês.
+
+437
+00:19:15,514 --> 00:19:18,416
+Nunca serão Jake ou Vivian,
+mas pelo menos estão aqui.
+
+438
+00:19:18,417 --> 00:19:21,519
+Vou para o bar
+onde não te escuto direito.
+
+439
+00:19:21,520 --> 00:19:23,855
+Entendo.
+Eu também me abandonaria.
+
+440
+00:19:23,856 --> 00:19:27,392
+Boyle, já chega de ovos.
+Vai beber para esquecer.
+
+441
+00:19:27,393 --> 00:19:30,094
+Comece com isso.
+Pegarei garrafas no bar.
+
+442
+00:19:30,095 --> 00:19:32,964
+Abram caminho! Homem grandão
+ajudando amigo pequeno.
+
+443
+00:19:32,965 --> 00:19:34,533
+Passando!
+
+444
+00:19:35,734 --> 00:19:38,269
+Você tem sorte por não ter
+tido um término ruim.
+
+445
+00:19:38,270 --> 00:19:41,407
+Só não foram ruins porque
+os caras eram perdedores.
+
+446
+00:19:42,408 --> 00:19:43,775
+Nunca namorei alguém bom.
+
+447
+00:19:45,744 --> 00:19:47,146
+Como você.
+
+448
+00:19:53,452 --> 00:19:56,287
+Amy?
+Achei que já tinha ido.
+
+449
+00:19:56,288 --> 00:19:58,690
+Oi, Jake.
+Trabalho incrível.
+
+450
+00:19:58,691 --> 00:20:01,392
+Tenho que admitir
+que estou com inveja.
+
+451
+00:20:01,393 --> 00:20:02,861
+Sério?
+
+452
+00:20:02,862 --> 00:20:06,043
+Se quiser, te ajudo a ser
+demitida. Sou bom nisso.
+
+453
+00:20:06,044 --> 00:20:07,432
+É.
+
+454
+00:20:07,433 --> 00:20:09,400
+Isso é real.
+Está acontecendo.
+
+455
+00:20:09,401 --> 00:20:11,369
+Olhe...
+
+456
+00:20:11,370 --> 00:20:12,904
+Não quero ser um babaca.
+
+457
+00:20:12,905 --> 00:20:17,108
+Sei que você namora o Teddy,
+e está indo bem.
+
+458
+00:20:17,109 --> 00:20:19,609
+-É que...
+-O que foi?
+
+459
+00:20:20,744 --> 00:20:22,647
+Não sei o que acontecerá
+na operação,
+
+460
+00:20:22,648 --> 00:20:25,450
+e se algo ruim acontecer,
+eu me sentiria mal
+
+461
+00:20:25,451 --> 00:20:27,385
+se não dissesse isso.
+
+462
+00:20:28,264 --> 00:20:32,744
+Eu meio que gostaria que
+acontecesse algo entre nós,
+
+463
+00:20:32,745 --> 00:20:34,843
+romanticamente.
+
+464
+00:20:34,844 --> 00:20:36,928
+E sei que não dá,
+pois está com o Teddy,
+
+465
+00:20:36,929 --> 00:20:41,266
+e vou para uma operação
+disfarçada, e é assim.
+
+466
+00:20:41,267 --> 00:20:43,144
+Mas...
+
+467
+00:20:46,038 --> 00:20:50,008
+Enfim, não devemos ter contato,
+então eu tenho que ir.
+
+468
+00:20:50,009 --> 00:20:52,544
+A América precisa de mim.
+Tchau.
+
+469
+00:20:55,443 --> 00:20:56,743
+TRÊS HORAS DEPOIS
+
+470
+00:20:56,744 --> 00:20:58,845
+E outra rodada para todos,
+por minha conta!
+
+471
+00:20:58,846 --> 00:21:01,119
+Valeu, cara.
+Qual é a ocasião?
+
+472
+00:21:01,120 --> 00:21:02,987
+Estou comemorando.
+
+473
+00:21:02,988 --> 00:21:08,144
+Meu nome é Jake Peralta e acabo
+de ser demitido da polícia.
+
+474
+00:21:09,128 --> 00:21:11,497
+Eu sou o Leo...
+Ianucci.
+
+475
+00:21:13,098 --> 00:21:14,501
+É um prazer te conhecer.
+
+476
+00:21:31,445 --> 00:21:34,228
+@legseries
+facebook.com/LegendasEmSerie
+
+477
+00:21:34,229 --> 00:21:36,729
+Legende conosco:
+legendas.em.serie@gmail.com
+

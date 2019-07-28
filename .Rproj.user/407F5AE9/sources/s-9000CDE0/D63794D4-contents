@@ -1,0 +1,59 @@
+# Marcus Nunes - 2019
+# https://marcusnunes.me
+
+# funcao para calcular o nivel trofico
+
+tl <- function(dados){
+
+  resultado <- as.data.frame(matrix(NA, ncol = length(dados$impacto), nrow = length(dados$impacto)))
+  
+  for (j in 1:length(dados$impacto)){
+
+    resultado[, j] <- dados$valores[, j] * as.numeric(dados$impacto > dados$impacto[j])
+
+  }
+  
+  # top-down e top-up
+  
+  #resultado[lower.tri(resultado_bk)] <- 0
+  
+  top_down <- apply(apply(resultado, 2, function(x) {ifelse(x > 0, 0, x)}),
+                    1, 
+                    sum)
+  
+  top_up   <- apply(apply(resultado, 2, function(x) {ifelse(x < 0, 0, x)}),
+                    1, 
+                    sum)
+  
+  ##############
+  # leitura nova
+  
+  resultado <- as.data.frame(matrix(NA, ncol = length(dados$impacto), nrow = length(dados$impacto)))
+  
+  for (j in 1:length(dados$impacto)){
+    
+    resultado[, j] <- dados$valores[, j] * as.numeric(dados$impacto < dados$impacto[j])
+    
+  }
+  
+  # bottom-up e bottom-down
+  
+  #resultado[upper.tri(resultado_bk)] <- 0
+  
+  bottom_up   <- apply(apply(resultado, 2, function(x) {ifelse(x < 0, 0, x)}),
+                       1, 
+                       sum)
+  
+  bottom_down <- apply(apply(resultado, 2, function(x) {ifelse(x > 0, 0, x)}),
+                       1, 
+                       sum)
+  
+  # organizacao dos resultados
+  
+  return(list(top_down    = top_down,
+              top_up      = top_up,
+              bottom_up   = bottom_up,
+              bottom_down = bottom_down)
+         )
+
+}

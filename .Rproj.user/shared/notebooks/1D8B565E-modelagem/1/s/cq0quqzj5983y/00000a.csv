@@ -1,0 +1,8 @@
+"0","# CLEBIA BEZERRA DA SILVA e GLEYDSON KLEBER LOPES DE OLIVEIRA"
+"0","# aparecem duas vezes. tem que ver porque isso ocorre"
+"0","dados %>%"
+"0","  filter(nome==""CLEBIA BEZERRA DA SILVA"") %>%"
+"0","  select(nome, siape, departamento, ano_ingresso_ufrn, ano_obtencao_doutorado)"
+"2","Error in select(., nome, siape, departamento, ano_ingresso_ufrn, ano_obtencao_doutorado) : 
+  unused arguments (nome, siape, departamento, ano_ingresso_ufrn, ano_obtencao_doutorado)
+"

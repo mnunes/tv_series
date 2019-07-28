@@ -1,0 +1,20 @@
+# Marcus Nunes - 2019
+# https://marcusnunes.me
+
+# funcao para automatizar a extracao dos valores das estatisticas
+# bottom_down, bottom_up, top_down e top_up
+
+automatizacao <- function(file, sheet){
+  
+  dados <- suppressMessages(extracao(file, sheet))
+  
+  estatisticas <- tibble(tl = names(unlist(tl(dados))),
+                         v  = unlist(tl(dados)))
+  
+  estatisticas <- estatisticas %>%
+    group_by(grp = str_extract(tl, paste(c("top_down", "top_up", "bottom_up", "bottom_down"), collapse="|"))) %>%
+    summarise(Soma = sum(v))
+  
+  return(estatisticas)
+  
+}

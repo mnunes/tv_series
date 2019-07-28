@@ -1,0 +1,39 @@
+]0;~/Documents/Research/github/tv_series[?1034h$ cd 
+.DS_Store                               portuguese-bosque-ud-2.4-190531.udpipe
+.RData                                  sentiment/
+.Rhistory                               subtitles/
+.Rproj.user/                            tv_series.Rproj
+analysis.R                              
+$ cd [K[K[Kmkdir lemmatization
+]0;~/Documents/Research/github/tv_series$ cd lemmatization/
+]0;~/Documents/Research/github/tv_series/lemmatization$ wget https://github.com/michmech/lemmatization-lists/raw/master/lemmatization-pt. txt
+--2019-07-25 13:06:55--  https://github.com/michmech/lemmatization-lists/raw/master/lemmatization-pt.txt
+Resolving github.com (github.com)... 140.82.114.4
+Connecting to github.com (github.com)|140.82.114.4|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://raw.githubusercontent.com/michmech/lemmatization-lists/master/lemmatization-pt.txt [following]
+--2019-07-25 13:06:59--  https://raw.githubusercontent.com/michmech/lemmatization-lists/master/lemmatization-pt.txt
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 151.101.0.133, 151.101.64.133, 151.101.128.133, ...
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.0.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 19281131 (18M) [text/plain]
+Saving to: ‘lemmatization-pt.txt’
+
+lemmatization-pt.txt   0%[                      ]       0  --.-KB/s               lemmatization-pt.txt   0%[                      ] 143.72K   715KB/s               lemmatization-pt.txt   4%[>                     ] 863.72K  2.10MB/s               lemmatization-pt.txt  12%[=>                    ]   2.34M  3.89MB/s               lemmatization-pt.txt  25%[====>                 ]   4.64M  5.78MB/s               lemmatization-pt.txt  33%[======>               ]   6.17M  6.11MB/s               lemmatization-pt.txt  44%[========>             ]   8.12M  6.72MB/s               lemmatization-pt.txt  54%[===========>          ]  10.11M  7.14MB/s               lemmatization-pt.txt  66%[=============>        ]  12.31M  7.58MB/s               lemmatization-pt.txt  77%[===============>      ]  14.16M  7.75MB/s               lemmatization-pt.txt  88%[==================>   ]  16.19M  7.97MB/s               lemmatization-pt.txt  91%[===================>  ]  16.89M  7.56MB/s               lemmatization-pt.txt 100%[=====================>]  18.39M  7.64MB/s    in 2.4s    
+
+2019-07-25 13:07:02 (7.64 MB/s) - ‘lemmatization-pt.txt’ saved [19281131/19281131]
+
+]0;~/Documents/Research/github/tv_series/lemmatization$ head lmm[K[Kemmatization-pt.txt 
+﻿00	iodargírios
+a	aa
+aacheniano	aacheniana
+aacheniano	aachenianas
+aacheniano	aachenianos
+aal	aais
+aaleniano	aaleniana
+aaleniano	aalenianas
+aaleniano	aalenianos
+aba	abas
+]0;~/Documents/Research/github/tv_series/lemmatization$ open .
+]0;~/Documents/Research/github/tv_series/lemmatization$ open lemmatization-pt.txt lemmatization-pt.txt [K[K
+]0;~/Documents/Research/github/tv_series/lemmatization$ 

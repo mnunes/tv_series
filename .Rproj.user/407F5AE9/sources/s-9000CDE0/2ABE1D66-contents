@@ -1,0 +1,37 @@
+# Marcus Nunes - 2019
+# https://marcusnunes.me
+
+# funcao para ???
+
+extracao <- function(file, sheet){
+  
+  require(readxl)
+  
+  #############################
+  # leitura e limpeza dos dados
+  
+  valores <- read_excel(path = file, sheet = sheet, range = "C2:BL63")
+  
+  # subset de valores nao-NA
+  
+  validos  <- max(apply(!apply(valores, 2, is.na), 2, sum))
+  especies <- na.omit(valores$`Impacting / Impacted`)
+  valores  <- valores[1:validos, 2:(validos+2)]
+  
+  colnames(valores) <- especies
+  
+  diag(valores) <- 0
+  
+  ################################
+  # leitura e limpeza dos impactos
+  
+  impacto <- read_excel(path = file, sheet = sheet, range = "D1:BL1", col_names = FALSE)
+  impacto <- as.vector(na.omit(t(impacto)))
+  
+  return(list(valores = valores,
+              impacto = impacto))
+  
+}
+
+
+

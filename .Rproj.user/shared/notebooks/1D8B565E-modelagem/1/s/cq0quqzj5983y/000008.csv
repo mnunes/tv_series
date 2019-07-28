@@ -1,0 +1,4 @@
+"0","dados %>%"
+"0","  group_by(nome) %>%"
+"0","  count() %>%"
+"0","  arrange(desc(n))"

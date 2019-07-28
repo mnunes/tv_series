@@ -54,35 +54,22 @@ bojack_corpus_df <- as.data.frame(bojack_corpus_matrix)
 row.names(bojack_corpus_df) <- NULL
 bojack_corpus_df$palavras <- palavras_bojack
 
+# agrupar os resultados 
+
 bojack_corpus_df <- bojack_corpus_df %>%
   group_by(palavras) %>%
   summarise_all(sum)
 
 temporadas <- rep(1:5, each = 12)
-bojack_corpus <- t(apply(bojack_corpus_matrix, 1, function(x) tapply(x, temporadas, sum)))
-colnames(bojack_corpus) <- paste("S0", 1:5, sep = "")
+bojack_corpus_df_col <- t(apply(bojack_corpus_df[, 2:61], 1, function(x) tapply(x, temporadas, sum)))
+colnames(bojack_corpus_df_col) <- paste("S0", 1:5, sep = "")
+bojack_corpus_df_col <- data.frame(palavra = bojack_corpus_df$palavras,
+                                   bojack_corpus_df_col)
 
-
-
-# wordcloud(rownames(bojack_corpus), bojack_corpus[, 1], title.size = 1.2, max.words = 50, random.order = TRUE)
-
-#
-
-bojack_corpus_melt <- melt(bojack_corpus_df)
+bojack_corpus_melt <- melt(bojack_corpus_df_col)
 names(bojack_corpus_melt) <- c("palavra", "temporada", "ocorrencias")
 
-bojack_corpus_melt
-
-#bojack_corpus_melt %>%
-#  group_by(temporada) %>%
-#  top_n(n = 10, wt = ocorrencias) %>%
-#  arrange(desc(ocorrencias)) %>%
-#  ggplot(., aes(x = palavra, y = ocorrencias, fill = temporada)) +
-#  geom_col(show.legend = FALSE) +
-#  facet_wrap(~ temporada, scales = "free") +
-#  labs(x = "Número de Ocorrências", y = "Palavras") +
-#  coord_flip() +
-#  scale_fill_viridis_d()
+# funcao para plotar os graficos de barra
 
 plot.seriado <- function(dados, season, cor = 0){
   
@@ -217,6 +204,8 @@ brooklyn99_corpus_df <- as.data.frame(brooklyn99_corpus_matrix)
 row.names(brooklyn99_corpus_df) <- NULL
 brooklyn99_corpus_df$palavras <- palavras_brooklyn99
 
+# agrupar os resultados 
+
 brooklyn99_corpus_df <- brooklyn99_corpus_df %>%
   group_by(palavras) %>%
   summarise_all(sum)
@@ -226,30 +215,16 @@ temporadas <- c(rep(1, 22),
                 rep(3, 23), 
                 rep(4, 22), 
                 rep(5, 22))
-brooklyn99_corpus <- t(apply(brooklyn99_corpus_matrix, 1, function(x) tapply(x, temporadas, sum)))
-colnames(brooklyn99_corpus) <- paste("S0", 1:5, sep = "")
 
+brooklyn99_corpus_df_col <- t(apply(brooklyn99_corpus_df[, 2:113], 1, function(x) tapply(x, temporadas, sum)))
+colnames(brooklyn99_corpus_df_col) <- paste("S0", 1:5, sep = "")
+brooklyn99_corpus_df_col <- data.frame(palavra = brooklyn99_corpus_df$palavras,
+                                       brooklyn99_corpus_df_col)
 
-
-# wordcloud(rownames(brooklyn99_corpus), brooklyn99_corpus[, 1], title.size = 1.2, max.words = 50, random.order = TRUE)
-
-#
-
-brooklyn99_corpus_melt <- melt(brooklyn99_corpus_df)
+brooklyn99_corpus_melt <- melt(brooklyn99_corpus_df_col)
 names(brooklyn99_corpus_melt) <- c("palavra", "temporada", "ocorrencias")
 
-brooklyn99_corpus_melt
-
-#brooklyn99_corpus_melt %>%
-#  group_by(temporada) %>%
-#  top_n(n = 10, wt = ocorrencias) %>%
-#  arrange(desc(ocorrencias)) %>%
-#  ggplot(., aes(x = palavra, y = ocorrencias, fill = temporada)) +
-#  geom_col(show.legend = FALSE) +
-#  facet_wrap(~ temporada, scales = "free") +
-#  labs(x = "Número de Ocorrências", y = "Palavras") +
-#  coord_flip() +
-#  scale_fill_viridis_d()
+# funcao para plotar os graficos de barra
 
 plot.seriado <- function(dados, season, cor = 0){
   

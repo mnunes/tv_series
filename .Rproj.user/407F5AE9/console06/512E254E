@@ -36,4 +36,35 @@ aaleniano	aalenianos
 aba	abas
 ]0;~/Documents/Research/github/tv_series/lemmatization$ open .
 ]0;~/Documents/Research/github/tv_series/lemmatization$ open lemmatization-pt.txt lemmatization-pt.txt [K[K
-]0;~/Documents/Research/github/tv_series/lemmatization$ 
+]0;/Users/marcus/Documents/Research/github/tv_series/lemmatization$ ls
+total 39248
+-rw-r--r--@ 1 marcus  staff    18M Jul 25 13:07 lemmatization-pt.txt
+]0;/Users/marcus/Documents/Research/github/tv_series/lemmatization$ cd ..
+]0;/Users/marcus/Documents/Research/github/tv_series$ ls
+total 38792
+-rw-r--r--  1 marcus  staff    34K Jul 28 13:51 LICENSE
+-rw-r--r--  1 marcus  staff    14B Jul 28 13:51 README.md
+-rw-r--r--@ 1 marcus  staff   9.8K Jul 28 16:34 analysis.R
+-rw-r--r--@ 1 marcus  staff   8.3K Jul 25 14:18 analysis_old.R
+drwxr-xr-x  3 marcus  staff    96B Jul 25 13:07 [1m[34mlemmatization[39;49m[0m
+drwxr-xr-x  5 marcus  staff   160B Jul 20 12:59 [1m[34msentiment[39;49m[0m
+drwxr-xr-x  5 marcus  staff   160B Jul 18 10:27 [1m[34msubtitles[39;49m[0m
+-rw-r--r--  1 marcus  staff    18M Jul 28 16:36 tv_series.RData
+-rw-r--r--@ 1 marcus  staff   227B Jul 28 13:28 tv_series.Rproj
+]0;/Users/marcus/Documents/Research/github/tv_series$ cp s01 <- plot.seriado(bojack_corpus_melt, "S01", 0.00)
+bash: syntax error near unexpected token `('
+]0;/Users/marcus/Documents/Research/github/tv_series$ s02 <- plot.seriado(bojack_corpus_melt, "S02", 0.25)
+bash: syntax error near unexpected token `('
+]0;/Users/marcus/Documents/Research/github/tv_series$ s03 <- plot.seriado(bojack_corpus_melt, "S03", 0.50)
+bash: syntax error near unexpected token `('
+]0;/Users/marcus/Documents/Research/github/tv_series$ s04 <- plot.seriado(bojack_corpus_melt, "S04", 0.75)
+bash: syntax error near unexpected token `('
+]0;/Users/marcus/Documents/Research/github/tv_series$ s05 <- plot.seriado(bojack_corpus_melt, "S05", 1.00)
+bash: syntax error near unexpected token `('
+]0;/Users/marcus/Documents/Research/github/tv_series$ 
+]0;/Users/marcus/Documents/Research/github/tv_series$ grid.arrange(s01, s02, s03, s04, s05, left = "Palavras", bottom = "Número de Ocorrências")^C
+]0;/Users/marcus/Documents/Research/github/tv_series$ ^C
+]0;/Users/marcus/Documents/Research/github/tv_series$ ^C
+]0;/Users/marcus/Documents/Research/github/tv_series$ tv_series.RData[C[Cctv_series.RData[C[C[Cptv_series.RData[C[C[C[C tv_series.RData[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C /[K/[K~/Dos[Kcuments/re[K[KResearch/github/tv_series/
+cp: /Users/marcus/Documents/Research/github/tv_series/tv_series.RData and tv_series.RData are identical (not copied).
+]0;/Users/marcus/Documents/Research/github/tv_series$ 

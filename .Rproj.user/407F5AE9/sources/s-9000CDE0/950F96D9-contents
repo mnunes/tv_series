@@ -1,20 +1,43 @@
 ---
-title: "Análise de Sentimentos com o R: "
+title: "Análise de Sentimentos com o R: Bojack Horseman vs Brooklyn Nine-Nine"
 description: "Porque não é só de pesquisa que vive o ser humano"
-tags: ["análise de sentimentos", "ciência de dados", "r", "séries de tv"]
+tags: ["análise de sentimentos", "bojack horseman", "brooklyn nine-nine", "ciência de dados", "r", "séries de tv"]
 draft: false
-date: 2019-07-22T05:20:00-03:00
+date: 2019-07-22T08:20:00-03:00
 ---
 
+```{r load, include = FALSE}
+load(file = "tv_series.RData")
+```
+
 # Introdução
+
+Analisar sentimentos em texto é uma das coisas que sempre desejei aprender a fazer. Ao descobrir o post [Bojack Horseman and Tidy Data Principles (Part 1)](https://pacha.hk/blog/2019/07/16/bojack-horseman-and-tidy-data-principles-part-1/) senti que era o momento de dar o pontapé inicial no assunto. Mas em vez de simplesmente reaplicar aquilo que o meu texto inspirador fez, decidi ir além, comparando duas séries de TV que gosto bastante.
+
+Para tal, escolhi [Bojack Horseman](https://pt.wikipedia.org/wiki/BoJack_Horseman) e [Brooklyn Nine-Nine](https://pt.wikipedia.org/wiki/Brooklyn_Nine-Nine) para a empreitada. Optei pelas duas por uma série de motivos. O principal deles, como dito anteriormente, é o fato de eu gostar de ambas. Além disso, as duas séries são consideradas _sitcoms_, o que as coloca no mesmo gênero televisivo. Não obstante, são séries contemporâneas: Bojack Horseman estreou em 2014, enquanto Brooklyn Nine-Nine é apenas um ano mais velha. 
+
+O que as difere são os temas abordados. Enquanto Bojack Horseman é uma série brutalmente triste, que explora a relação do protagonista com a sua depressão, Brooklyn Nine-Nine aposta em piadas leves e temas como inclusão para contar a sua história.
+
 
 
 # Obtenção dos Dados
 
 
-# 
+# Análise
+
+## Bojack Horseman
 
 
-# 
+## Brooklyn 99
+
+
+
+# Conclusão
+
+Reconheço que este não é o resultado que eu esperava. 
+
+
+
+
 
 

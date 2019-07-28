@@ -334,7 +334,7 @@ ggplot(brooklyn99_plot, aes(x = episodio, colour = temporada)) +
   geom_line(aes(y = positivo)) +
   geom_line(aes(y = -negativo)) +
   scale_x_continuous(breaks = c(22, 45, 68, 90, 112)) +
-  labs(x = "Episódio", y = "Sentimento", colour = "Temporada", title = "Bojack Horseman") +
+  labs(x = "Episódio", y = "Sentimento", colour = "Temporada", title = "Brooklin 99") +
   scale_colour_viridis_d()
 
 
